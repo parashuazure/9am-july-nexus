@@ -43,14 +43,13 @@
 <distributionManagement>
 <repository>
 <id>package</id>
-<url>
-http://3.142.69.234:8081/repository/package/
+<url>http://43.205.120.239:8081/repository/package/
 </url>
 </repository>
 <snapshotRepository>	
 <id>snapshots</id>
 <url>
-http://3.142.69.234:8081/repository/snapshots/
+http://43.205.120.239:8081/repository/snapshot/
 </url>
 </snapshotRepository>
 </distributionManagement>
